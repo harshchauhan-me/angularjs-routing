@@ -1,0 +1,25 @@
+nav {
+    display: flex;
+    position: inherit;
+}
+
+li {
+    padding: 0 30px 0 30px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    position: relative;
+    top: 0px;    
+    font-size: 20px;
+}
+
+footer {
+    position: relative;
+    bottom: 0px;
+    font-size: 20px;
+}
